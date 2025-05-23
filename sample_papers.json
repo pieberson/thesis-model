@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Transformer Models for Natural Language Processing",
+    "abstract": "This paper introduces transformer architectures and their applications in NLP tasks.",
+    "url": "https://example.com/transformer-nlp",
+    "citationCount": 150
+  },
+  {
+    "title": "A Survey on BERT Fine-Tuning",
+    "abstract": "This survey covers various approaches to fine-tuning BERT models on downstream tasks.",
+    "url": "https://example.com/bert-finetuning",
+    "citationCount": 85
+  },
+  {
+    "title": "Semantic Search with Sentence Transformers",
+    "abstract": "We demonstrate how sentence transformers can be used for semantic search in academic corpora.",
+    "url": "https://example.com/semantic-search",
+    "citationCount": 120
+  },
+  {
+    "title": "Citation Bias in Academic Search Engines",
+    "abstract": "This paper analyzes citation bias and proposes methods to reduce its effect in search rankings.",
+    "url": "https://example.com/citation-bias",
+    "citationCount": 40
+  },
+  {
+    "title": "Improving Academic Search with Cross-Encoders",
+    "abstract": "Cross-encoders improve search ranking quality by re-ranking candidate documents with BERT.",
+    "url": "https://example.com/cross-encoder",
+    "citationCount": 60
+  }
+]
